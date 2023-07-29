@@ -15,10 +15,10 @@ indicator.
 
 5. Plan your chatbot flow.
 
-6.Design your chatbot.
+  6.Design your chatbot.
 
 7. Preview and test your chatbot.
 
-8.Target your chatbot.
+  8.Target your chatbot.
 
 9. Measure and optimise chatbot performance.
