@@ -1,24 +1,12 @@
 # Chat_Bot
 A chatbot is a piece of software that mimics
 human dialogue through text chats, voice
-commands, or both. Here are the 9 steps you will
-cover to help you get a chatbot :
+commands, or both.
 
-1. Decide what type of chatbot is best for you.
+I have made this chatbot using two libraries:
 
-2. Determine your chatbot key performance
-indicator.
+1. Tkinter(used for the GUI part)
 
-3. Understand user needs.
+2. Chatterbot(used to generate automated responses to a user's input)
 
-4. Give your chatbot a personality.
 
-5. Plan your chatbot flow.
-
-  6.Design your chatbot.
-
-7. Preview and test your chatbot.
-
-  8.Target your chatbot.
-
-9. Measure and optimise chatbot performance.
